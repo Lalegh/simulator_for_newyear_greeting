@@ -1,0 +1,2 @@
+# simulator_for_newyear_greeting
+拜年模拟器
